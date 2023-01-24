@@ -4,8 +4,8 @@
 
 Here are some ideas to get you started:
 
- :books:Estudando Análise e Desenvolvimento de Sistemas.
- :computer:Estudando curso da Rocketseat paralelo a faculdade.
- :briefcase:Procurando Trabalho.
+ :books:Estudando Análise e Desenvolvimento de Sistemas.<br>
+ :computer:Estudando curso da Rocketseat paralelo a faculdade.<br>
+ :briefcase:Procurando Trabalho.<br>
  :camera_flash:Instagram:@_nnaatthh_
 
