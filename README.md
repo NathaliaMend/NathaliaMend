@@ -7,5 +7,5 @@ Here are some ideas to get you started:
  :books:Estudando Análise e Desenvolvimento de Sistemas.<br>
  :computer:Estudando curso da Rocketseat paralelo a faculdade.<br>
  :briefcase:Procurando Trabalho.<br>
-[ Linkedi](https://www.linkedin.com/in/nathalia-mendon%C3%A7a-084705252/)
+[ Linkedin](https://www.linkedin.com/in/nathalia-mendon%C3%A7a-084705252/)
 
