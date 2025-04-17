@@ -4,3 +4,8 @@
 
 **Aviso** Strong
 
+> [!NOTE]
+> é assim que você escreve uma nota.
+>
+> Pode ter várias linhas.
+
