@@ -1,2 +1,4 @@
-[Macarons](https://en.wikipedia.org/wiki/Macaron) são deliciosos, mas difíceis de fazer.
+## Sintaxe do Md
+
+[Chinese AI](https://chat.deepseek.com/) Links.
 
