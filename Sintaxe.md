@@ -24,3 +24,15 @@
 > ```
 > Assim.
 
+- term1
+    - : Minha descriçãodo termo1
+
+- `termo2`
+    - : Minha descrição do term2
+
+      Pode ter vários parágrafos e blocos de código também:
+
+      ```js
+      const coisa = 1;
+      ```
+
