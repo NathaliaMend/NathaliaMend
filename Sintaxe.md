@@ -4,15 +4,18 @@
 
 **Aviso** Strong
 
+
 > [!NOTE]
 > é assim que você escreve uma nota.
 >
 > Pode ter várias linhas.
 
+
 > [!WARNING]
 > é assim que você escreve um aviso.
 >
 > Pode ter vários parágrafos.
+
 
 > [!NOTE]
 > é assim que você escreve uma nota.
@@ -23,6 +26,7 @@
 > const s = "Estou em um bloco de código";
 > ```
 > Assim.
+
 
 - term1
     - : Minha descriçãodo termo1
