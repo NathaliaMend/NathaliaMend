@@ -40,3 +40,10 @@
       const coisa = 1;
       ```
 
+
+| Título 1 | Título 2 | Título 3 |
+|----------|----------|----------|
+| célula 1 | célula 2 | célula 3 |
+| célula 4 | célula 5 | célula 6 |
+
+
