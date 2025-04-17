@@ -9,3 +9,8 @@
 >
 > Pode ter várias linhas.
 
+> [!WARNING]
+> é assim que você escreve um aviso.
+>
+> Pode ter vários parágrafos.
+
