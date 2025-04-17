@@ -2,3 +2,5 @@
 
 [Chinese AI](https://chat.deepseek.com/) Links.
 
+**Aviso*** Strong
+
