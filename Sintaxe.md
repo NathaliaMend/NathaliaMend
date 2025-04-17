@@ -14,3 +14,13 @@
 >
 > Pode ter vários parágrafos.
 
+> [!NOTE]
+> é assim que você escreve uma nota.
+>
+> Pode conter blocos de código.
+>
+> ```js
+> const s = "Estou em um bloco de código";
+> ```
+> Assim.
+
