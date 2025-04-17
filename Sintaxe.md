@@ -46,6 +46,8 @@
 | célula 1 | célula 2 | célula 3 |
 | célula 4 | célula 5 | célula 6 |
 
+
+
   | A título 1 | A rubrica 2 | A rubrica 3 | A rubrica 4 | A rubrica 5 | A rubrica 6 |
   | ------------------ | -------------------------------------------------- -------------------------------------------------- ----------------------------------------------- | ------------------ | -------------------------------------------------- -------------------------------------------------- -------------------------------------------------- ------------------ | ------------------ | ------------------ |
   | Algo curto | Algo muito mais longo que realmente entra em muitos detalhes sobre algo, tanto que a formatação da tabela começa a ficar ruim no formato GFM. | Algo curto | Outra célula com muito texto, que também entra em muitos detalhes sobre algo, tanto que a formatação da tabela começa a ficar ruim no formato GFM. | Algo curto | Algo curto |
