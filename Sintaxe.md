@@ -6,15 +6,19 @@
 
 
 > [!NOTE]
-> é assim que você escreve uma nota.
->
-> Pode ter várias linhas.
+> Useful information that users should know, even when skimming content.
 
+> [!TIP]
+> Helpful advice for doing things better or more easily.
+
+> [!IMPORTANT]
+> Key information users need to know to achieve their goal.
 
 > [!WARNING]
-> é assim que você escreve um aviso.
->
-> Pode ter vários parágrafos.
+> Urgent info that needs immediate user attention to avoid problems.
+
+> [!CAUTION]
+> Advises about risks or negative outcomes of certain actions.
 
 
 > [!NOTE]
