@@ -1,6 +1,6 @@
 ### `Hi there 👋`
 > :mortar_board: Formada em Análise e Desenvolvimento de Sistemas. :pushpin: <br>
-> :books: Cursando Ciência da Computação. 
+> :books: Cursando Ciência da Computação. <br>
 > :computer: Fui Pisciner concluinte na École [42](https://www.42network.org/) São Paulo. :tada:<br>
  
 <picture>
