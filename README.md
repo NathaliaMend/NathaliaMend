@@ -1,6 +1,6 @@
 ### `Hi there 👋`
 > :mortar_board: Formada em Análise e Desenvolvimento de Sistemas. :pushpin: <br>
-> :books: Pós-graduanda na <strong>Faculdade de Tecnologia RocketSeat.</strong>	:purple_heart: :rocket: <br>
+> :books: Cursando Ciência da Computação. 
 > :computer: Fui Pisciner concluinte na École [42](https://www.42network.org/) São Paulo. :tada:<br>
  
 <picture>
